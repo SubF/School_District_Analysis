@@ -20,17 +20,17 @@ When comparing the school summaries between the new dataset and original dataset
 By replacing Thomas High School's 9th grade math and reading scores it greatly increased the passing % for math, reading, and overall. This increased the schools overall standing significantly. 
 
 Replacing the Thomas High School 9th grader's scores results in the following changes:
--The average 9th grade math score drops by 0.08 and the average 9th grade reading score drops by 0.24
--The average scores by school spending in the $631-645 range which Thomas High School is in also drops when the Thomas High School 9th grader's scores are removed.
--The average scores by school size drop slightly for math but increase slightly for reading when the Thomas High School 9th grader's scores are removed
--The average scores by school type also drop slightly for math but increase slightly for reading when the Thomas High School 9th grader's scores are removed
+- The average 9th grade math score drops by 0.08 and the average 9th grade reading score drops by 0.24
+- The average scores by school spending in the $631-645 range which Thomas High School is in also drops when the Thomas High School 9th grader's scores are removed.
+- The average scores by school size drop slightly for math but increase slightly for reading when the Thomas High School 9th grader's scores are removed
+- The average scores by school type also drop slightly for math but increase slightly for reading when the Thomas High School 9th grader's scores are removed
 
 
 ## Summary: 
 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 When analyzing the results of the data differences between the new data and original data the following results can be seen.
--When comparing by district the changes in average math scores, average reading scores, and passing % are negligible at less than 1% change for all metrics.
--When comparing by school we see the largest change which resulted in a 26% increase in the overall passing % of Thomas High School. Although the passing % changed significantly, the average math and reading scores had negligible change.
--The average scores in Thomas High Schools per student spending range ($631-645) dropped when Thomas High School 9th graders were removed. These results were also a negligible change.
--The average scores by school size and school type both saw the same results with math slightly increasing and reading slightly decreasing when Thomas High School's 9th graders were removed. These results were also a negligible change.
+- When comparing by district the changes in average math scores, average reading scores, and passing % are negligible at less than 1% change for all metrics.
+- When comparing by school we see the largest change which resulted in a 26% increase in the overall passing % of Thomas High School. Although the passing % changed significantly, the average math and reading scores had negligible change.
+- The average scores in Thomas High Schools per student spending range ($631-645) dropped when Thomas High School 9th graders were removed. These results were also a negligible change.
+- The average scores by school size and school type both saw the same results with math slightly increasing and reading slightly decreasing when Thomas High School's 9th graders were removed. These results were also a negligible change.
