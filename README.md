@@ -28,7 +28,6 @@ Replacing the Thomas High School 9th grader's scores results in the following ch
 
 ## Summary: 
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 When analyzing the results of the data differences between the new data and original data the following results can be seen.
 - When comparing by district the changes in average math scores, average reading scores, and passing % are negligible at less than 1% change for all metrics.
 - When comparing by school we see the largest change which resulted in a 26% increase in the overall passing % of Thomas High School. Although the passing % changed significantly, the average math and reading scores had negligible change.
