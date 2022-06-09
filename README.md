@@ -7,7 +7,6 @@ Maria has requested for a new analysis be completed after evidence of academic d
 
 ## Results
 
-Using bulleted lists and images of DataFrames as support, address the following questions.
 The following results compare the new data with Thomas High School 9th graders removed which will be refered to as the "new dataset" and the "original data" which included Thomas High School 9th graders.
 
 When comparing the district summaries between the new dataset and original dataset there was a drop of less than 1% for every metric. The Average Math Score dropped the most with just over a 0.54% drop and the Average Reading Score dropped just over 0.02%. This caused a drop in the % Overall Passing by just over 0.31%.
